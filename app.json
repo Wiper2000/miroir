@@ -1,7 +1,7 @@
 {
   "name": "PluralMirror for Discord",
   "description": "A Discord bot for plural folks, to help you post messages as each of your selves, with custom names and avatars",
-  "repository": "https://github.com/matchu/plural-mirror-discord",
+  "repository": "https://github.com/Wiper2000/miroir",
   "env": {
     "DISCORD_CLIENT_TOKEN": {
       "description": "MTA0ODM1NjcxOTIyODYxNjc3NA.GcxnRv.H69UUzuDSHrrBW27m9p9GARMRUjunrZoSn9UVY",
