@@ -4,15 +4,15 @@
   "repository": "https://github.com/matchu/plural-mirror-discord",
   "env": {
     "DISCORD_CLIENT_TOKEN": {
-      "description": "Your Discord application's token. Find this in the application's page, under Bot > Token.",
+      "description": "MTA0ODM1NjcxOTIyODYxNjc3NA.GcxnRv.H69UUzuDSHrrBW27m9p9GARMRUjunrZoSn9UVY",
       "required": true
     },
     "MIRROR_SERVER_ID": {
-      "description": "Your Discord \"mirror server\"'s ID. Find this by right-clicking the server name, with Developer Mode enabled.",
+      "description": "1048357892505485413",
       "required": true
     },
     "SOURCE_SERVERS__s1__SERVER_ID": {
-      "description": "The Discord \"source server\"'s ID. Find this by right-clicking the server name, with Developer Mode enabled. NOTE: This will prefix channel names with \"s1\", but you can use a different prefix code instead by renaming this variable later.",
+      "description": "1048315276434870302",
       "required": false
     },
     "IDENTITIES__p1__NAME": {
