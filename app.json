@@ -4,7 +4,7 @@
   "repository": "https://github.com/Wiper2000/miroir",
   "env": {
     "DISCORD_CLIENT_TOKEN": {
-      "description": "MTA0ODMxMDM1MDk4NDAwMzYyNA.Gbz6Rn.ssxuvKzteqkGl186lMXnf9cwXGrj-zmqUns0ck",
+      "description": "MTA0ODMxMDM1MDk4NDAwMzYyNA.GKAKpy.nZT38b6UMO_XHFFLPXqNBWzXGW4rLlRjGAsINo",
       "required": true
     },
     "MIRROR_SERVER_ID": {
